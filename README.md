@@ -13,7 +13,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/zahnsteine/cockphisher.git
 ```
 
 - Change to cloned directory and run `cockphisher.sh` -
@@ -23,3 +23,6 @@ $ bash cockphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `CockPhisher` is installed.
+
+### Credits
+- Instagram: @zahnsteine
