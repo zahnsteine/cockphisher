@@ -1,8 +1,8 @@
-Package: zphisher
+Package: cockphisher
 Version: 2.2
 Installed-Size: 9400
 Architecture: all
-Maintainer: @htr-tech
+Maintainer: @croco
 Depends: php, wget, git, curl
-Homepage: https://github.com/htr-tech/zphisher
+Homepage: https://st4yhigh3c.com/
 Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
