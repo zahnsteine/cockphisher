@@ -3,7 +3,6 @@
 - Latest and updated login pages.
 - Mask URL support 
 - Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
 - Multiple tunneling options
   - Localhost
   - Ngrok (With or without hotspot)
@@ -17,10 +16,10 @@
 $ git clone https://github.com/htr-tech/zphisher.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `cockphisher.sh` -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd cockphisher
+$ bash cockphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `CockPhisher` is installed.
